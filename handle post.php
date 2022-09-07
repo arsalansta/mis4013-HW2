@@ -7,5 +7,8 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
+    
+    <p>Welcome <?php echo $_POST["name"]; ?><br>
+      Your email address is: <?php echo $_POST["email"]; ?></p>
   </body>
 </html>
