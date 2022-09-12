@@ -1,4 +1,4 @@
-<?php require_once("header.php");?>
+<? require_once("header.php");?>
 <h1> my website </h1>
 
 
