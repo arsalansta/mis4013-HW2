@@ -1,4 +1,4 @@
-[1:34 PM] Escalante Garcia, Juan D.
+
 <? require_once("header.php"); ?>
 <h1> My website </h1>
 
